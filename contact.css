@@ -57,11 +57,11 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
-.image{
-    height: 200px;
-    width: 400px;
+.contact-form image{
+    height: 50px;
+    width: 70px;
 }

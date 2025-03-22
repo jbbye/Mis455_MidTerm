@@ -31,14 +31,16 @@ main {
     justify-content: space-between;
     align-items: center;
     margin: 20px auto;
-    padding: 20px;
-    padding-left: 50px;
+    padding-left: 100px;
     background-color: white;
     border-radius: 10px;
     width: 80%;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 .home-content img {
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 40%;
     border-radius: 10px;
 }
